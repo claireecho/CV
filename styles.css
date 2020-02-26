@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(0, 80, 133);
+  color: white;
+}
+
+hr {
+  border-style: none none dotted;
+  border-color: lightgray;
+  width: 53px;
+  border-width: 6px;
+  height: 0px;
+}
+
+li,
+p,
+h1 {
+  align-content: center;
+}
+h3 {
+  align-content: center;
+  color: #66bfbf;
+}
